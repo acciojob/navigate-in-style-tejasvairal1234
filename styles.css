@@ -1,12 +1,16 @@
 /*  your css code here. If applicable */
 
-nav
+.container
 {
 	background-color: #D3D3D3;
 	padding: 10px;
 	
 }
 
+ul 
+{
+	display: flex;
+}
 li
 {
 	margin-right: 1rem;
